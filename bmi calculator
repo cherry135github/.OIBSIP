@@ -1,6 +1,6 @@
 #define a function
 def cal_BMI(weight, height):
-#calculate the formula using the formula
+#calculate the bmi formula using the formula
   BMI= weight / (height ** 2)
   return BMI
 #define a function to determine the bmi
